@@ -2,6 +2,12 @@
 
 A Flutter app (Android only) that shows **six ways to talk to Android from Flutter**, each one on its own page with a real-life use case. Built as the companion project for the article *Six Ways to Talk to Android from Flutter — and When to Use Each One*.
 
+## Download
+
+Try it without building anything: [Download the latest APK](https://github.com/ksanjardev/bridge_lab/releases/latest).
+
+On your phone you may need to allow "Install unknown apps" for your browser. The APK is signed with a debug key and is meant for demos.
+
 > Right bridge, right problem.
 
 <!-- Add a cover screenshot: docs/screenshots/catalog_new.png -->
