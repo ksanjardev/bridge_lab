@@ -32,6 +32,7 @@ A **Compare** page (icon in the catalog's app bar) has a decision guide ("Which 
 | ![](docs/screenshots/notifications.png) | ![](docs/screenshots/filters.png) | ![](docs/screenshots/inspector.png) |
 
 | Compare: speed race |
+|---|
 <img src="docs/screenshots/compare_race.png" alt="Bridge Lab catalog" width="300"> 
 
 ## What each page demonstrates
