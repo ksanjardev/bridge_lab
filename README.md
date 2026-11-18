@@ -5,7 +5,7 @@ A Flutter app (Android only) that shows **six ways to talk to Android from Flutt
 > Right bridge, right problem.
 
 <!-- Add a cover screenshot: docs/screenshots/catalog_new.png -->
-<img src="docs/screenshots/catalog_new.png" alt="Bridge Lab catalog" width="300">
+<img src="docs/screenshots/catalog_new.png" alt="Bridge Lab catalog" width="400">
 
 ## The six approaches
 
