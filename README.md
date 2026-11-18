@@ -133,4 +133,4 @@ Read the full write-up: **[add your Medium link here]**
 
 ## License
 
-[Choose a license, for example MIT, and add a LICENSE file.]
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file.
