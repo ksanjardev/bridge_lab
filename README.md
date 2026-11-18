@@ -31,9 +31,9 @@ A **Compare** page (icon in the catalog's app bar) has a decision guide ("Which 
 |---|---|---|
 | ![](docs/screenshots/notifications.png) | ![](docs/screenshots/filters.png) | ![](docs/screenshots/inspector.png) |
 
-| Compare: guide | Compare: speed race |
-|---|---|
-| ![](docs/screenshots/compare_guide.png) | ![](docs/screenshots/compare_race.png) |
+| Compare: speed race |
+|---|
+| ![](docs/screenshots/compare_race.png) |
 
 ## What each page demonstrates
 
