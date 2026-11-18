@@ -129,7 +129,7 @@ Notes for JNIgen:
 
 ## Article
 
-Read the full write-up: **[[Read on Medium](https://medium.com/@skarimov230908/6-ways-to-talk-to-android-from-flutter-and-when-to-use-each-one-432601bcc8ab)]**
+Read the full write-up: [Read on Medium](https://medium.com/@skarimov230908/6-ways-to-talk-to-android-from-flutter-and-when-to-use-each-one-432601bcc8ab)
 
 ## License
 
