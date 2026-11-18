@@ -1,0 +1,10 @@
+name: ImageLabBindings
+description: Bindings for the native image_lab library
+output: lib/features/image_lab/image_lab_bindings.g.dart
+headers:
+  entry-points:
+    - android/app/src/main/cpp/image_lab.h
+  include-directives:
+    - android/app/src/main/cpp/image_lab.h
+compiler-opts:
+  - '-IC:/PROGRA~1/LLVM/lib/clang/23/include'

@@ -1,0 +1,19 @@
+android_sdk_config:
+  add_gradle_deps: true
+  sdk_root: 'C:/Users/user/AppData/Local/Android/Sdk'
+  versions: ['36']
+
+output:
+  dart:
+    path: lib/features/device_inspector/android_sdk.g.dart
+    structure: single_file
+
+classes:
+  - 'android.os.Build'
+  - 'android.os.BatteryManager'
+  - 'android.os.StatFs'
+  - 'android.os.Environment'
+  - 'android.os.Vibrator'
+  - 'android.os.VibrationEffect'
+  - 'android.content.Context'
+  - 'java.io.File'
